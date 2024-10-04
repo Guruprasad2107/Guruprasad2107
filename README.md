@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guruprasad2107
-- 👀 I’m interested in coding
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning Btech 3rd year
 - 💞️ I’m looking to collaborate on Machine learning based project
 
